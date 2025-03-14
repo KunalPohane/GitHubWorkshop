@@ -17,6 +17,9 @@
   
   git push origin master
 
+  #Checking Branches
+  git branch 
+
   #Adding new commands
    
  
